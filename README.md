@@ -10,11 +10,13 @@ Dataset:  Utilizing a retail orders dataset sourced from Kaggle in CSV format.
 <br></br>
 ***<h1>How To Use</h1>***
 
-1.Utilizing a retail orders dataset sourced from Kaggle in CSV format.
+1.Utilizing a retail orders dataset(Orders.csv) sourced from Kaggle in CSV format, this project involves:
 
-2.Importing the dataset into Jupyter Notebook for ETL operations
+2.Importing the dataset into Jupyter Notebook for ETL operations.
 
-3.Importing the same dataset into MySQL for further querying and ETL operations.
+3.Saving the transformed dataset in Jupyter Notebook as transformed_file.csv.
+
+4.Importing the transformed_file.csv dataset into MySQL for further analysis.
 <br></br>
 ***<h1>Data Flow Diagram</h1>***
 
