@@ -1,10 +1,13 @@
 ***<h1>Analytical Project: Retail Orders Analysis</h1>***
 This project involves analyzing sales data to identify trends and growth opportunities. Key features include month-over-month and year-over-year sales comparisons. Techniques used encompass data cleaning, aggregation, and visualization. Tools utilized include Python, MySQL, and Jupyter Notebook. The goal is to provide actionable insights for business decision-making.
 <br></br>
-***<h1>Source Used</h1>***
+***<h1>Tech Stack</h1>*** 
 Language: Python (Jupyter Notebook)
 
 Database: MySQL
+<br></br>
+
+***<h1>Source Used</h1>***  
 
 Dataset:  Utilizing a retail orders dataset sourced from Kaggle in CSV format.
 <br></br>
