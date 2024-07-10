@@ -35,7 +35,7 @@ Dataset:  Utilizing a retail orders dataset sourced from Kaggle in CSV format.
 ![kaggle dataset](https://github.com/Aravind-achu/Analytical-Project/assets/174689224/8c189e5a-5311-4366-bcb5-2553debe4de4)
 
 <br></br>
-Using Jupiter NoteBook For ETL Operation 
+Using Jupyter NoteBook For ETL Operation 
 <br></br>
 ![Jupiter notebook](https://github.com/Aravind-achu/Analytical-Project/assets/174689224/0d18fda8-5afc-4e30-beea-b37fc785057b)
 
